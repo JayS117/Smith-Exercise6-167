@@ -1,4 +1,6 @@
 
+package edu.cpt167.smith.exercise6;
+
 //Import Java Scanner
 import java.util.Scanner;
 
