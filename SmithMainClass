@@ -1,4 +1,7 @@
 
+//Import Java Scanner
+import java.util.Scanner;
+
 //Start of SmithMainClass
 public class SmithMainClass 
 {
@@ -411,6 +414,3 @@ public class SmithMainClass
 	}//end of receive How Many
 
 }//End of SmithMainClass
-
-
-
